@@ -21,7 +21,7 @@ Engrave英文學習應用平台為一整合式英文學習應用平台，主要�
 <img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/342382f1-2040-4c5c-a2d5-11f495a1fe65">
 
 <center class="half">
-  <img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/08f191e4-b606-4e42-92df-70f26abf31c1" width="400"><img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/9847ec90-e0f7-49ea-8fdc-2d5fbf35677b" height="327px" width="400">
+  <img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/08f191e4-b606-4e42-92df-70f26abf31c1" width="400"><img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/9847ec90-e0f7-49ea-8fdc-2d5fbf35677b" height="300px" width="400">
 </center>
 
 克漏字：     
