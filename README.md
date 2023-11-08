@@ -17,7 +17,7 @@ Engrave英文學習應用平台為一整合式英文學習應用平台，主要�
 
 <img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/21d27bf7-1cfa-4e3f-877b-2ffba185f92a">
 <center class="half">
-  <img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/db54313a-8cc2-46f1-b806-33058fc8ce8c" width="200"><img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/effc4593-0ebf-4e6c-a506-370bb8fe6775"width="200">
+  <img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/db54313a-8cc2-46f1-b806-33058fc8ce8c"><img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/effc4593-0ebf-4e6c-a506-370bb8fe6775">
 </center>
 
 克漏字：整理相關試題，藉由閱讀上下文，找出該空格的單字，訓練使用者對閱讀、字彙、文法的了解。
