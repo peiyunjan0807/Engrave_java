@@ -39,5 +39,4 @@ Engrave英文學習應用平台為一整合式英文學習應用平台，主要�
 點下欲選擇的歌曲按鈕，便會跳出題目視窗且自動播放歌曲，當聽出空格單字時，使用者便可依照題號按下右上角的解答按鈕，即顯示該答案單字。       
 <img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/43f5f5a4-175a-4d30-895c-3dcecaa4207c">
 
-https://www.youtube.com/watch?v=UiriP8qnVac
 
