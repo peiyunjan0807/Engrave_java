@@ -1,0 +1,54 @@
+Relative Pronoun
+關係代名詞
+
+關係代名詞的功能是代替在主要子句出現過的｢先行詞｣，而先行詞在主要子句中可能是主詞、受詞或
+補語，或是人、物、人與物，關係代名詞也會隨著先行詞的種類，而有不同形態。
+
+先行詞	主格		受格		 所有格
+人	who/that	who/whom/that	 whose
+物	which/that	which/that	 whose
+人與物	that		that	
+-
+關係代名詞的省略與否：
+關係代名詞在關係子句中當主詞時，不可省略   The man is an engineer. The man speaks Arabic.
+					   The man who/that speaks Arabic is an engineer.
+關係代名詞在關係子句中當受詞時，可省略	 The concert was great. We saw the concert last Sunday.
+					 The concert (which/that) we saw last Sunday was great.
+用whose代替所有格，後接名詞，不可省略	I know the boy. His classmates are friendly.
+					I know the boy whose classmates are friendly.
+
+雖然關係代名詞that可以替換使用，但在部份情況下，只能使用that，也有部分情況是不能使用that：
+必須使用that的情形
+先行詞是｢人+物｣     The woman and her dog that play the ball in the park are energetic.
+疑問句已有who、which避免重複	Which is the book that you have?
+先行詞前有｢形容詞最高級｣修飾	This is the most delicious food that I have ever eaten.
+先行詞前有
+｢all、no、any、the same、the only｣	In my company, Jack is the only person that has traveled to Moldova.
+先行詞前有序數
+the first/second…	Jason is the last person that finished the mission.
+
+不能使用that的情形
+接在介係詞後面	This is the company up which Mary sets.
+		=This is the company (which/that) Mary sets up.
+逗點後面(非限定用法)	My cousin, who is 7 years old, visited my home last Sunday.
+
+
+複合關係代名詞
+英文大多數的複合關係代名詞是由關係代名詞+-ever詞尾組合而成，兼具先行詞與關係代名詞的功能
+以下是各種複合關係代名詞的組合方式。
+
+任何人/事/物
+anyone who→whoever
+anyone whom→whomever
+anything that→whatever
+any one of them that→whichever
+
+anyone who
+= whoever(任何人)	He helps whoever joins the party.
+whenever(隨時)        	Alex must go to school whenever the teacher calls him.
+anything that 
+= whatever(任何事物)	Amy likes whatever in this shop.
+any one of them that
+= whichever(數個中的任一個)    Pick whichever you like.
+wherever(到處)		You can speak in English wherever you like.
+however(無論如何)	Alex didn’t pass the exam however he studied

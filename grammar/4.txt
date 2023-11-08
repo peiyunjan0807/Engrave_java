@@ -1,0 +1,68 @@
+The Subjunctive Mood
+假設語氣
+
+假設法動詞使用原則
+	
+		條件句中動詞形式	主要子句中動詞形式
+與現在相反	were / 過去式動詞	would/should/could/might + V
+與過去相反	had + p.p.		would/should/could/might + have + p.p.
+與未來相反	were to + V		would/should/could/might + V
+		should			would/should/could/might + V
+					will/shall/can/may + V
+
+1.與現在事實相反的假設
+If + S + were/V(過去), S + should/would/could/might + V
+Ex：If he were rich, he would buy the house.
+
+2.與過去事實相反的假設
+If + S + had + p.p., S + should/would/could/might + have + p.p.
+Ex：If I had had enough time, I would have gone with you.
+
+3.與未來事實相反的假設
+(1)絕不可能的假設
+If + S + were to + V, S + should/would/could/might + V
+Ex：If the sun were rise in the west, I would not change mt mind.
+(2)可能性極小的假設
+If + S + should + V, S +    should/would/could/might + V
+			    shall/will/can/may + V
+Ex：If I should fail, I will/would do it again.
+
+4.假設語氣的其他形式
+(1)省略If的假設法
+   Were	   S    SC    ,S    would + V.
+   Had	   S	p.p.  ,S    would have + p.p.
+   Should  S	V     ,S    would / will + V.
+      
+   Ex：
+   1.Were I young, I would learn to ski.
+     = If I were young, I would learn to ski.
+   2.Had I been there, I would have helped you.
+     = If I had been there, I would have helped you.
+   3.Should it rain, they would not come.
+     = If it should rain, they would not come.
+
+(2)表「但願」的假設法
+   I wish (that) + S     V(過)/were + SC
+	                 had p.p.
+   Ex：
+   1.I wish I were rich.
+   2.I wish I could fly.
+   3.I wish I had been in Japan last year.
+
+(3)表「好像」的假設法
+   S + V  as if	      S	   V(過) / were+SC
+	  As thought	   had p.p.
+   Ex：He talks as if he were a doctor.
+
+(4)表「若非」的假設法
+   But for	S,		    
+   = Without S,          	    
+   = If it were not for S,	    
+   = But that + S + V(現),	    
+   + would/S + should + V/could/might
+
+   Ex：
+   But for your help,
+   = Without your help,              he would fail.
+   = if it were not for your help,
+   = But that you help him, 

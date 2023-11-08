@@ -1,0 +1,67 @@
+Adverb
+副詞
+
+1.頻率副詞
+頻率副詞用以修飾動詞，說明動作出現的次數或頻率
+
+頻率副詞      頻率	中文	        備註
+always	      100%	總是	
+usually	      80~90%	通常	
+frequently    70~80%	屢次地	
+often	      60~70%	時常、常常	
+sometimes     50%	有時、偶爾	
+occasionally  30~40%	偶爾	
+seldom	      10%以下	甚少	        具否定意味
+hardly ever   10%以下	幾乎沒有	具否定意味
+never	      0%	從未	        具否定意味
+
+
+頻率副詞在句子中的位置為be動詞之後、一般動詞之前、助動詞與一般動詞中間
+
+主詞	be動詞	  頻率副詞	形容詞	  副詞
+He	is	  always	busy	  in the morning.
+They	are	  always	busy	  in the morning.
+
+主詞	頻率副詞    動詞	        副詞
+I	seldom	    play basketball	in the afternoon.
+We	sometimes   play basketball	in the afternoon.
+
+主詞	助動詞	 頻率副詞	動詞
+I	should	 often	        read the books.
+She	should	 often	        read the books.
+
+
+頻率副詞的問句及答句
+
+問句：
+助動詞	主詞	頻率副詞	
+Does	she	sometimes    makes dinner?
+be動詞	主詞	頻率副詞	
+Are	they	sometimes    busy?
+
+答句：
+Yes/No,	主詞	頻率副詞	助動詞
+Yes,	she	sometimes	does.
+Yes/No,	主詞	頻率副詞	be動詞
+Yes,	they	sometimes	are.
+
+2.	程度副詞
+程度副詞可以修飾動詞、形容詞或副詞，以表達程度上的強弱
+1.修飾動詞
+Ex：Mary hardly understands Math.
+2.修飾形容詞
+Ex：This machine is quite durable.
+3.修飾副詞
+Ex：He finished the mission very efficiently.
+
+	下表為常用的程度副詞
+very (非常)	    almost (幾乎)	 enough (足夠)	 hardly (幾乎不)
+just (只，剛剛)	    even (更加)	         only (只有)	 too (太)
+so (如此，非常)	    quite (相當地)	 nearly (幾乎)	 totally (完全地)
+partially (部分地)  completely (完全地)	
+
+※ 通常程度副詞放在所修飾的形容詞或副詞的前面，但要注意例外：
+1.enough必須放在所修飾的形容詞或副詞後面
+Ex：Kate is tall enough to play basketball well.
+2.only可以放在句尾
+Ex：I only got 50 points.=I got 50 points only.

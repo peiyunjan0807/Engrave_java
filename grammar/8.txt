@@ -1,0 +1,63 @@
+Helping Verb
+助動詞
+
+動詞分成「主動詞」和「助動詞」，助動詞是在原形動詞之前，表示「時態」、「語態」、「語氣」、「疑問」、「否定」等意義的「動詞」。
+
+1.be：同時是主動詞也是助動詞
+進行式	    be + V-ing 	  He is making dinner.
+被動語態    be + p.p. 	  The packages were sent by us.
+
+
+2.do：do/does/did
+協助 be 動詞或一般動詞表示時態	1.I didn’t understand her question.
+				2.I don’t know where he is.
+形成疑問句、否定句	Do you know him?
+
+
+3.have：have / has / had
+協助 be 動詞或一般動詞表示時態	1.I have seen the film.
+				2.He had finished it when I arrived.
+形成疑問句、否定句	Have you been to Europe?
+
+
+4.情態助動詞：will/would, shall/should, can/could, may/might, must, need, dare, ought to, used to
+(1).不受主詞的人稱和數量限制
+(2).兩個情態助動詞不能連用
+
+will	將、會	用於一些祈使句附帶問句       Let's go to the movies, will you?
+	將、會	表示說話者或主詞的意願、決心、意向	He will go to America tomorrow.
+
+Would	將、會	表示說話者或主詞的意願       He said he would finish it on time.
+	將、會	表示過去的習慣動作	Sometimes we would go to the mountains.
+		表示客氣的請求	    Would you pass me the bottle?
+	寧願	would rather…than 	I would rather go to school than stay at home.
+
+shall	應該、要  表示說話者或主詞的意志、包括諾言、決心、強制	You shall do it.
+
+should	應該、要  表示說話者或主詞的意志、包括諾言、決心、強制	You should study harder.
+		  用於假設法	 If it should rain, we would not go.
+	以為	  should think	 I should think that he told a lie.
+
+can	許可	相當於may, might	  Can I help you?	
+	會、能	表示能力 = be able to	  I can swim.
+
+could	會、能	表示能力 = be able to	  I couldn't find my keys this morning.
+	不得不	can't/couldn't help + V-ing	I can't help thinking.= I can’t but think.
+		= can’t/couldn’t but + V	
+
+may	祝		表示祝福		May you have a pleasant journey!
+	可能、許可	表示推測、可能性	He may come.
+						May I come in?
+might	可能、許可	較may委婉，可能性較小	
+
+must	必須	表示義務(強調主觀因素)	I must go now.
+		對情況的推斷		He must be very rich.
+
+need	須要	表示必要性	Need I say it?
+		用於假設法(實際已完成動作)	You needn't have done it.
+
+dare	敢	表示敢於…	He dare not say so.
+
+ought to     應該     表示義務	  You ought to finish it on time.
+
+used to	    曾經常常	表示過去的習慣或狀態	He used to call on me on Sundays.

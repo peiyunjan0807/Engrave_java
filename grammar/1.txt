@@ -1,0 +1,67 @@
+Five Sentence Patterns
+五大句型
+
+把句子多餘的修飾語(副詞adv系列)去掉，留下的必為「五大句型」
+
+五大句型
+1.S V
+2.S V O
+3.S V SC
+4.S V O OC
+5.S V O O
+
+主詞subject：
+句子中最主要的部份，表明詞(N)、代名詞(pron.)詞性的單字、片語、子句皆可當整個句子的主詞。
+受詞object：
+句子中接受動作的部分，放在及物動詞(Vt.)或是介係詞(prep.)的後面，表N、pron.詞性的單字、片
+語、子句皆可當句子的受詞。
+補語complement：
+句子中用來補充說明主詞(S)與受詞(O)的用字。表名詞(N)、形容詞(adj.)詞性的單字、片語、子句皆可當句子的補語。
+
+Point 1
+S + Vi
+Vi：不及物動詞，動詞本身具有完整性，不需要受詞或補語
+Ex：
+1.It rained.
+2.The goods arrived.
+
+
+Point 2
+S + Vt + O
+Vt：及物動詞，必須接受詞句意才會完整。
+Ex：
+1.I will have a salad.
+2.Some people speak English.
+
+
+Point 3
+S + Vi + SC
+此種句型的動詞種類為連綴動詞(Linking Verb)
+1.Be V：am, are, is
+2.…起來：look, sound, taste, smell, feel
+3.似乎：appear, seem
+4.仍然/保持：keep, stay, remain
+5.變成：become, get, turn, grow, go, come
+
+SC的詞性：N, adj.
+Ex：
+1.He is a teacher.
+2.It sounds great.
+
+
+Point 4
+S + V + O + OC
+動詞兩大類：感官動詞、使役動詞
+Ex：
+1.Nina found herself lost.
+2.I asked him to do it.
+
+
+Point 5
+S + V + O1 + O2 = S + V + O2 + 介係詞(prep) + O1
+動詞類型：授與動詞，必須接2個受詞
+Ex：
+1.I lent him a book. 
+  = I lent a book to him.
+2.Please buy me a pen.
+  = Please buy a pen for me.
