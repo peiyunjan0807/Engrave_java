@@ -18,10 +18,10 @@ Engrave英文學習應用平台為一整合式英文學習應用平台，主要�
 使用者可自行建立單字庫，或是讀取已建立的資料庫，再經瀏覽和選取所需單字後，即可轉變成專屬字卡，搭配翻面的效果，輕鬆記憶單字。    
 而會員模式和訪客模式的差別為：在建立新資料庫時，若為會員模式，則可將新建立之單字庫存至後端資料庫，且可於建立時自行設定單字庫密碼，即若以訪客模式登入，則需輸入密碼以得到單字庫之讀取權。
 
-<img width="695" alt="截圖 2023-11-09 上午2 18 41" src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/342382f1-2040-4c5c-a2d5-11f495a1fe65">
+<img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/342382f1-2040-4c5c-a2d5-11f495a1fe65">
 
 <center class="half">
-  <img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/08f191e4-b606-4e42-92df-70f26abf31c1"><img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/9847ec90-e0f7-49ea-8fdc-2d5fbf35677b">
+  <img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/08f191e4-b606-4e42-92df-70f26abf31c1" "wight=400"><img src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/9847ec90-e0f7-49ea-8fdc-2d5fbf35677b" "wight=400">
 </center>
 
 克漏字：     
