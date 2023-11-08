@@ -1,6 +1,10 @@
-# Engrave_java
+<img width="1059" alt="image" src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/086d89b4-ac2c-4698-9ffa-ad30e5e220bd"># Engrave_java
 
 系統概述：
 Engrave英文學習應用平台為一整合式英文學習應用平台，主要針對單字記憶、語意判斷、文法使用以及英文聽力等設計能有效輔助學習的功能，讓使用者可根據不同的學習需求挑選功能，以達到學習英文的最佳效果。
 另外，為了提升使用平台的方便性及效率，此平台不僅支援帳密辨識，也提供訪客模式供使用者選擇，使用者可自行決定要以訪客身分或是會員身分進入平台，兩者主要的差別在於資料庫的存取。
-<img width="2443" alt="image" src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/c0daaf7f-e69e-43e3-9d37-e4c10d9da151">
+
+使用者登入：
+使用者可註冊帳號，也可選擇訪客登入。擁有帳號的使用者在單字部分可享有會員專屬功能。           
+![image](https://github.com/peiyunjan0807/Engrave_java/assets/150260168/66198355-1894-4dad-bc94-3f4ded273b53)
+
