@@ -13,6 +13,6 @@ Engrave英文學習應用平台為一整合式英文學習應用平台，主要�
 單字卡：使用者可自行建立單字庫，或是讀取已建立的資料庫，再經瀏覽和選取所需單字後，即可轉變成專屬字卡，搭配翻面的效果，輕鬆記憶單字。
 而會員模式和訪客模式的差別為：在建立新資料庫時，若為會員模式，則可將新建立之單字庫存至後端資料庫，且可於建立時自行設定單字庫密碼，即若以訪客模式登入，則需輸入密碼以得到單字庫之讀取權。
 <img width="399" alt="image" src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/21d27bf7-1cfa-4e3f-877b-2ffba185f92a">
-<img width="211" alt="image" src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/db54313a-8cc2-46f1-b806-33058fc8ce8c"> <img width="210" alt="image" src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/effc4593-0ebf-4e6c-a506-370bb8fe6775">
-
+<img width="211" alt="image" src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/db54313a-8cc2-46f1-b806-33058fc8ce8c"> 
+<img width="210" alt="image" src="https://github.com/peiyunjan0807/Engrave_java/assets/150260168/effc4593-0ebf-4e6c-a506-370bb8fe6775">
 
